@@ -1,0 +1,31 @@
+th[role=columnheader]:not(.no-sort) {
+	cursor: pointer;
+}
+/*
+th[role=columnheader]:not(.no-sort):after {
+	content: '';
+	float: right;
+	margin-top: 7px;
+	border-width: 0 4px 4px;
+	border-style: solid;
+	border-color: #404040 transparent;
+	visibility: hidden;
+	opacity: 0;
+	-ms-user-select: none;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	user-select: none;
+}
+
+*/
+th[aria-sort=ascending]:not(.no-sort) {
+	color: #5edade;
+}
+
+th[aria-sort]:not(.no-sort) {
+	color: #5edade;
+}
+
+th[role=columnheader]:not(.no-sort):hover {
+	color: #5edade;
+}
