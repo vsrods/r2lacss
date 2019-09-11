@@ -1,0 +1,66 @@
+html {color: #111; background: #fff url(/r2la/static/images/nasty_fabric.png);}
+
+.uk-table-striped tbody tr:nth-of-type(odd) {background-color:#F3F3F3}
+
+.uk-table td {vertical-align: middle;}
+.uk-table thead th {vertical-align: middle;}
+
+.r2la_table td, .r2la_table th {padding: 3px 6px; text-align: center;border: 1px solid #CCC !important}
+.r2la_table {font-size: 14px; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; color:#000; margin-left:auto;margin-right:auto}
+.r2la_table th {background-color:#666;color:#FFF}
+
+.history_table {border-collapse: collapse; border-spacing: 0; width: auto !important;}
+
+.log_panel:hover {background-color:#ccf1ff}
+.log_panel {cursor:default}
+.log_panel_active {background-color:#ccf1ff}
+
+.log_table {border-collapse:separate; border-spacing: 0;}
+.log_table td {border-bottom: 1px #BBB solid; padding: 3px 0px;}
+
+.uk-badge-gray {background-color:#9d9d9d}
+.uk-badge-magenta {background-color: #9b62c1}
+.uk-badge-white {background-color: #fff; color: #555; border: 1px solid #ccc;}
+.uk-badge-green {background-color: #3d9e12}
+.uk-badge-yellow {background-color: #ECD672; color: #555; border: 1px solid #ccc;}
+
+.uk-badge-class0 {background-color:#9d9d9d}
+.uk-badge-class1 {background-color: #e41818}
+.uk-badge-class2 {background-color: #012b60}
+.uk-badge-class3 {background-color: #009635}
+.uk-badge-class4 {background-color: #f28f00}
+
+.uk-badge-dns {background-color: #D6F5FF; color: #555; border: 1px solid #ccc;}
+.uk-badge-dnf {background-color: #F0D1FF; color: #555; border: 1px solid #ccc;}
+.uk-badge-dq {background-color: #999; color: #555; border: 1px solid #ccc;}
+
+.uk-badge-pty {background-color: #888; color: #EEE; border: 0px; padding: 0 2px;}
+
+.button-more {min-height: 16px; height: 16px; padding: 0 2px;}
+
+.r2la-badge {font-size: 12px; padding: 2px 6px;}
+.text_shadow {text-shadow: 2px 2px 5px #b2b2b2;}
+
+.r2la_aids {max-width: 150px; word-wrap: break-word;}
+.r2la_inpit {max-width: 70px; word-wrap: break-word;}
+
+table.center {
+	margin: 0 auto;
+	overflow: scroll;
+}
+
+.batch_panel {padding: 4px !important; background-color: #EEE; margin: 7px 0px;}
+
+.tire-0 {background-color: #FFF68F;}
+.tire-1 {background-color: #FFA54F;}
+.tire-2 {background-color: #FF6A6A;}
+.tire-3 {background-color: #CCCCCC;}
+.tire-4 {background-color: #76EEC6;}
+.tire-5 {background-color: #7EC0EE;}
+
+.compound-Super_Soft {background-color: #FF6A6A;}
+.compound-Soft {background-color: #FFF68F;}
+.compound-Medium {background-color: #FFF;}
+.compound-Hard {background-color: #FFA54F;}
+.compound-Intermediate {background-color: #76EEC6;}
+.compound-Wet {background-color: #7EC0EE;}
