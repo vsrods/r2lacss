@@ -2,11 +2,11 @@ html {color: #111; background: #2e3139;}
 
 .uk-table-striped tbody tr:nth-of-type(odd) {background-color:#3d3f48}
 
-.uk-table td {vertical-align: middle;background-color: #c6c6c6;color: #24262d;}
+.uk-table td {vertical-align: middle;background-color: #e3e3e3;color: #24262d;}
 
 .r2la_table td, .r2la_table th {padding: 3px 6px; text-align: center;!important}
 .r2la_table {font-size: 14px; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; color:#2e3139; margin-left:auto;margin-right:auto; margin-bottom: 30px; margin-top: 20px;}
-.r2la_table th {background-color:#2e3139;color:#f6a821;}
+.r2la_table th {background-color:#2e3139;color:#ce9120;}
 
 .history_table {border-collapse: collapse; border-spacing: 0; width: auto !important;}
 
@@ -15,11 +15,11 @@ html {color: #111; background: #2e3139;}
 .log_panel_active {background-color:#2e3139}
 
 .log_table {border-collapse:separate; border-spacing: 0;}
-.log_table td {border-bottom: 1px #BBB solid; padding: 3px 0px;background-color: #c6c6c6;color: #2e3139;}
+.log_table td {border-bottom: 1px #BBB solid; padding: 3px 0px;background-color: #e3e3e3;color: #2e3139;}
 
 /*.uk-badge-gray {background-color:#9d9d9d}*/
 .uk-badge-magenta {background-color: #9b62c1}
-.uk-badge-white {background-color: #2e3139; color: #5c5c5c;}
+.uk-badge-white {background-color: #e3e3e3; color: #2e3139;}
 .uk-badge-green {background-color: #3d9e12}
 .uk-badge-yellow {background-color: #ECD672; color: #555; border: 1px solid #ccc;}
 
