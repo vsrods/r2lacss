@@ -18,7 +18,12 @@ a {
 
 a:active,
 a:hover {
-    outline: 0
+    outline: 0;
+    border-color: #ddd;
+    border-bottom-color: rgb(221, 221, 221);
+    border-bottom-color: transparent;
+    background: #2e3139;
+    color: #c3c3c3;
 }
 
 .uk-link,
@@ -1708,6 +1713,10 @@ html:not(.uk-touch) .uk-nav-offcanvas ul a:hover {
     color: #444;
     border: 1px solid rgba(0, 0, 0, .06);
     box-shadow: 3px 3px 20px rgba(0, 0, 0, .4) !important;
+    border-bottom: 1px solid #ddd;
+    border-bottom-color: rgb(221, 221, 221);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
 }
 
 .uk-navbar:after,
@@ -1736,7 +1745,7 @@ html:not(.uk-touch) .uk-nav-offcanvas ul a:hover {
     display: block;
     box-sizing: border-box;
     text-decoration: none;
-    height: 41px;
+    height: 42px;
     padding: 0 15px;
     line-height: 40px;
     color: #ce9120;
@@ -1745,7 +1754,13 @@ html:not(.uk-touch) .uk-nav-offcanvas ul a:hover {
     font-weight: 400;
     margin-top: -1px;
     margin-left: -1px;
+    border-radius: 4px 4px 0 0;
     border: 1px solid transparent;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    border-bottom-width: 1px;
+    border-left-color: transparent;
     border-bottom-width: 0;
     }
 
